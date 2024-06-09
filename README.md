@@ -1,1 +1,1 @@
-3D Ascii Game Engine
+3D Ascii Terminal Game Engine
